@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+## Languajes
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macorreag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
