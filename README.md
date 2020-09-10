@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 ![Twitter](https://img.shields.io/twitter/follow/macorreag?style=social)
 
 I am a student of systems engineering, convinced that web applications and the internet have the possibility of creating a better and more accessible world.
@@ -21,3 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
