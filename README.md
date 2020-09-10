@@ -32,6 +32,5 @@ Here are some ideas to get you started:
 - [SSH Key Storage en LastPass](https://medium.com/@macorreag/ssh-key-storage-en-lastpass-498dbdf8c3db?source=rss-955967916c9a------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Languajes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macorreag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
