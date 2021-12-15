@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/macorreag.svg?style=social&label=Follow)](https://twitter.com/macorreag)
 
-I am a student of systems engineering, convinced that web applications and the internet have the possibility of creating a better and more accessible world.
+Systems engineering, convinced that web applications and the internet have the possibility of creating a better and more accessible world.
 
 - 🌱 I’m currently learning Elixir and Google Apps Script.
 - 💬 Ask me about Web technologies and tools to automate your tasks.
