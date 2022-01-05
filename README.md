@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 - [Shortcut to move chrome tabs](https://dev.to/macorreag/shortcut-to-move-chrome-tabs-34gb)
 - [Usando LaTeX en cualquier Sitio!](https://dev.to/macorreag/usando-latex-en-cualquier-sitio-igh)
 - [Test Post](https://dev.to/macorreag/test-post-1lhm)
-- [Usar Gist como almacenamiento de imagenes SVG](https://medium.com/@macorreag/usar-gist-como-almacenamiento-de-imagenes-svg-34ef45a9c3a?source=rss-955967916c9a------2)
-- [SSH Key Storage en LastPass](https://medium.com/@macorreag/ssh-key-storage-en-lastpass-498dbdf8c3db?source=rss-955967916c9a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
