@@ -4,7 +4,7 @@
 
 Systems engineer, convinced that web applications and the internet have the possibility of creating a better and more accessible world.
 
-- 🌱 I’m currently learning Elixir and Google Apps Script.
+- 🌱 I’m currently learning Java Reactive ⚛️ with WebFlux.
 - 💬 Ask me about Web technologies and tools to automate your tasks.
 - 👯 I’m looking to collaborate on [FaztCommunityWeb](https://github.com/faztcommunity/fazt-web-community)
 
