@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/macorreag.svg?style=social&label=Follow)](https://twitter.com/macorreag)
+[![Twitter Follow](https://img.shields.io/twitter/follow/macorreag.svg?style=social&label=Follow&user=macorreag)](https://twitter.com/macorreag)
 
 Systems engineer, convinced that web applications and the internet have the possibility of creating a better and more accessible world.
 
