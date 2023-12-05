@@ -5,8 +5,9 @@
 Systems engineer, convinced that web applications and the internet have the possibility of creating a better and more accessible world.
 
 - 🌱 I’m currently learning Java Reactive ⚛️ with WebFlux.
-- 🤖 I'm currently learning Prompt engineering.
+- 🤖 Currently using Github copilot and ChatGPT
 - 🧹 I'm currently learning Clean Architecture.
+- ☁ Currently using cloud services such as codespaces
 - 💬 Ask me about Web technologies and tools to automate your tasks.
 - 👯 I’m looking to collaborate on [FaztCommunityWeb](https://github.com/faztcommunity/fazt-web-community)
 
