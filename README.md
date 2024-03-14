@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 # Blog posts
 
+Im Writing post in https://dev.to/macorreag
+
 <!-- BLOG-POST-LIST:START -->
 - [Tricks Chrome](https://dev.to/macorreag/shortcut-to-move-chrome-tabs-34gb)
 - [Usando LaTeX en cualquier Sitio!](https://dev.to/macorreag/usando-latex-en-cualquier-sitio-igh)
