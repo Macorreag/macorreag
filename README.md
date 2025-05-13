@@ -4,6 +4,7 @@
 
 Systems engineer, convinced that web applications and the internet have the possibility of creating a better and more accessible world.
 
+- 🤖 I’m currently writing MCP proyects for improve tools
 - 🌱 I’m currently learning Prompt AI and n8n WorkFlows AI
 - 🤖 Currently using Github copilot and ChatGPT
 - 🧹 I'm currently learning Clean Architecture.
